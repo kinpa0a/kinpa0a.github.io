@@ -1,3 +1,9 @@
-# My Awesome Book
+# Only 5 Minutes
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Take
+
+1. less than 30 minutes to write a topic.
+2. less than 5 minutes to read a topic.
+
+
+
