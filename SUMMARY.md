@@ -26,4 +26,5 @@
 * [Non-bloking IO](non-bloking-io.md)
 * [Sync and Async](sync-and-async.md)
 * [Future and Listenablefuture and Completablefuture](future-and-listenablefuture-and-completablefuture.md)
+* [Java Heap Memory](java-heap-memory.md)
 
